@@ -1,0 +1,8 @@
+0 Fuck you
+1 hello
+2 Help
+3 I love you
+4 No
+5 Okay
+6 Thank you
+7 Yes
